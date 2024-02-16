@@ -1,6 +1,6 @@
 IConfig:
   Enabled: true,
-  CodeQLCheckName: 'CodeQL',
+  CodeQLCheckName: CodeQL,
   AICodeAllowed: false,
   AICheckEnables: true,
-  AIMarker: 'ACB-Do'
+  AIMarker: ACB-Do
