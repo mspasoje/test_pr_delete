@@ -1,0 +1,6 @@
+IConfig:
+  Enabled: true,
+  CodeQLCheckName: 'CodeQL',
+  AICodeAllowed: false,
+  AICheckEnables: true,
+  AIMarker: 'ACB-Do'
