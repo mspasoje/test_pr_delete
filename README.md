@@ -4,4 +4,4 @@ maybe now...?
 what??
                  nbWritten = Encoding.UTF32.GetBytes(s, 0, s.Length, pbMem, nb);
                  
-????
+?????
